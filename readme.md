@@ -12,6 +12,7 @@ ScholarshipFund is a decentralized Ethereum-based platform where individuals can
 
 ## Contract Address
 0x34d8c7aa3aef8395b57ffd0a26e24d6483346e25
+![Screenshot 2024-12-21 142804](https://github.com/user-attachments/assets/b3857189-8f99-4353-b6e7-d7e5960bdeac)
 
 ## Project Vision
 The vision behind the ScholarshipFund project is to create a transparent and decentralized scholarship platform where anyone can donate to support education and students can receive financial help based on merit or need. The platform aims to reduce bureaucracy in scholarship allocation and give more power to the community (donors) in selecting scholarship tration**: Students can register on the platform by providing their name and university.
